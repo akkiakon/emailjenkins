@@ -8,6 +8,6 @@ public class BasicController {
 
 	@GetMapping("/get")
 	public String getData() {
-		return "im in my custom project";
+		return "im in my custom project"
 	}
 }
